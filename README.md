@@ -3,7 +3,7 @@
 # Balance
 Balancing robot based on  midhun_s project.
 
-<div class="image">
+<div class="container">
 <img src = "img/parts.png" width =300>
 <p class="container"> Parts: wire, MUP, voltage regulator </p>
 </div>
