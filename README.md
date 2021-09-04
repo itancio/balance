@@ -16,13 +16,13 @@ Balancing robot based on  midhun_s project.
   </tr>
   
   <tr>
-    <th><img src = "img/integ.png" width=300></th>
-    <th><p align="left">Setting the stable angle </p></th>
+    <th><img src = "img/test.png" width=300></th>
+    <th><p align="left">testing the connection before building the components on the robot's body.</p></th>
   </tr>
   
   <tr>
-    <th><img src = "img/test.png" width=300></th>
-    <th><p align="left"> hi</p></th>
+    <th><img src = "img/integ.png" width=300></th>
+    <th><p align="left">Setting the stable angle</p></th>
   </tr>
 
 <source src="img/demo.mov" type="video/mp4>
