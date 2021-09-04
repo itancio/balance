@@ -24,6 +24,7 @@ Balancing robot based on <a href="https://www.instructables.com/Arduino-Self-Bal
     <th><img src = "img/integ.png" width=300></th>
     <th><p align="left">Setting the stable angle</p></th>
   </tr>
+</table>
 
 <source src="img/demo.mov" type="video/mp4>
 
