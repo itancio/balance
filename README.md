@@ -3,15 +3,24 @@
 # Balance
 Balancing robot based on  midhun_s project.
 
-<div class="container">
-<img class="image" src = "img/parts.png" width =300>
-<p class="container"> Parts: wire, MUP, voltage regulator </p>
-</div>
+<table>
+  <tr>
+    <th><img class="image" src = "img/parts.png" width =300></th>
+    <th><p> Parts: wire, MUP, voltage regulator </p></th>
+  </tr>
+  
+  <tr>
+    <th><img src = "img/gyro.png" width=300></th>
+    <th><p>Connecting the three components: arduino,
+      accelerator-gyroscope, voltage regulator</p></th>
+  </tr>
+    
 
 
-<img src = "img/gyro.png" width=300>
-<p> Connecting the three components: arduino,
-  accelerator-gyroscope, voltage regulator </p>
+
+
+
+<p>  </p>
 <img src = "img/integ.png" width=300>
 <img src = "img/test.png" width=300>
 
