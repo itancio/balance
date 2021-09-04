@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="styles.css">
 
 # Balance
-Balancing robot based on  midhun_s project.
+Balancing robot based on <a href="https://www.instructables.com/Arduino-Self-Balancing-Robot-1/" target="_blank">midhun_s project.</a>
 
 <table>
   <tr>
