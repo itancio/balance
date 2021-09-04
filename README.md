@@ -27,11 +27,10 @@ Balancing robot based on <a href="https://www.instructables.com/Arduino-Self-Bal
   
   <tr>
     <th><<video width="320" height="240" controls>
-        <source src="movie.mp4" type="video/mp4">
+        <source src="img/demo.mov" type="video/mp4">
         </video></th>
   </tr>
    
 </table>
 
-<source src="img/demo.mov" type="video/mp4>
 
